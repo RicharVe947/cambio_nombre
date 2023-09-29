@@ -1,3 +1,6 @@
 [submodule "ignorar"]
 	path = ignorar
 	url = https://github.com/RicharVe947/ignore-xd.git
+[submodule "rotamundos_ejericio2"]
+	path = rotamundos_ejericio2
+	url = https://github.com/RicharVe947/rotamundos_ejercicio2.git
